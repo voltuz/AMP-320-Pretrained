@@ -6,8 +6,12 @@ Model specs: [320 amp pretrain_AMP_summary.txt](https://github.com/voltuz/AMP-32
 Pretrained on large facesets (more than 15k faces) for around 150kits
 
 
+## How to download
 
-## To use notes
+-Download the latest release
+
+
+## Model use notes
 
 -Paste all the files it in your model folder
 
