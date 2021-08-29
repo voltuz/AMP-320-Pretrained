@@ -9,6 +9,7 @@ Pretrained on large facesets (more than 15k faces) for around 150kits
 ## How to download
 
 -Download the latest release
+
 -Gdrive link by @Medic#2922 (Discord): https://drive.google.com/file/d/1qozvRPZLFCALCJTQTbWvgkMMUg9_KC5J/view?usp=drivesdk
 
 
